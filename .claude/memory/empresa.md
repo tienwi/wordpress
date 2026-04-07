@@ -10,14 +10,14 @@ Agencia colombiana especializada en ecommerce y automatización.
 
 ## Equipo
 
-| Persona | Rol | Responsabilidades |
-|---|---|---|
-| **Iván Rodríguez** | CEO | Estrategia de marketing, PM, comercial, automatizaciones, IA y tecnología |
-| **Hernando** | Project Manager | Gestión de proyectos, comercial |
-| **Alexa** | ADS Specialist | Pauta en Meta, Google, TikTok |
-| **Mario Andrés** | Programador Web | WordPress + WooCommerce + Shopify |
-| **Miguel** | Programador Web | WordPress + WooCommerce + Shopify |
-| **Elkys** | Diseñadora Web y Gráfica | Figma, Canva, IAs generativas, diseño web y gráfico |
+| Persona | Rol | ClickUp ID | Responsabilidades |
+|---|---|---|---|
+| **Iván Rodríguez** | CEO | `114010971` | Estrategia, PM, comercial, automatizaciones, IA |
+| **Hernando contreras** | Project Manager | `87340402` | Gestión de proyectos, comercial |
+| **Alexandra Mantilla (Alexa)** | ADS Specialist | `270660709` | Pauta en Meta, Google, TikTok |
+| **Mario Andres Carreño** | Programador Web | `270660605` | WordPress + WooCommerce + Shopify |
+| **Miguel Andrés carvajal** | Programador Web | `81540041` | WordPress + WooCommerce + Shopify |
+| **elkys villasmil** | Diseñadora Web y Gráfica | `270660704` | Figma, Canva, IAs generativas, diseño web |
 
 ## Verticales
 
@@ -34,14 +34,20 @@ Agencia colombiana especializada en ecommerce y automatización.
 
 ## Agentes del equipo
 
-| # | Agente | Usuarios | Vertical |
-|---|---|---|---|
-| 1 | Agent Design | Elkys | Diseño y Desarrollo |
-| 2 | Agent WordPress Dev | Mario Andrés, Miguel | Diseño y Desarrollo |
-| 3 | Agent Shopify Dev | Mario Andrés, Miguel | Diseño y Desarrollo |
-| 4 | Agent Ads | Alexa, Iván | Ads |
-| 5 | Agent N8N | Iván | Automatización |
-| 6 | Agent HighLevel | Iván | Automatización |
-| 7 | Agent Project Manager ⭐ | Hernando, Iván | Transversal |
+| # | Agente | Carpeta | Usuarios | Vertical |
+|---|---|---|---|---|
+| 1 | Agent PM ⭐ | `pm/` | Hernando, Iván | Transversal — núcleo |
+| 2 | Agent WordPress Dev | `wordpress/` | Mario, Miguel | Diseño y Desarrollo |
+| 3 | Agent Shopify Dev | `shopify/` | Mario, Miguel | Diseño y Desarrollo |
+| 4 | Agent Design | `design/` | Elkys | Diseño y Desarrollo |
+| 5 | Agent Ads | `ads/` | Alexa, Iván | Ads |
+| 6 | Agent N8N | `n8n/` | Iván | Automatización |
+| 7 | Agent HighLevel | `highlevel/` | Iván | Automatización |
 
 El **Agent PM** es el núcleo: contiene la información de clientes, proyectos activos y procesos de la agencia.
+
+## ClickUp Workspace
+
+- **Workspace ID:** `9011447394`
+- **Space principal:** TIENWI (`90112115690`)
+- **Proyectos activos:** lista `901113398348` (en folder GESTION CLIENTES)

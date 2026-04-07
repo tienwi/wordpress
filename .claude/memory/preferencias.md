@@ -26,9 +26,9 @@ Actualizado: 2026-04-06
 
 ## Al finalizar cada sesión
 
-- Hacer commit y push al repo `tienwi/wordpress` en GitHub
-- Actualizar `BITACORA.md` con lo trabajado
-- Actualizar archivos de memoria si hubo cambios relevantes
+- Hacer commit y push al repo `tienwi/agentes` en GitHub
+- Actualizar `BITACORA.md` del agente con lo trabajado
+- Actualizar archivos de memoria globales (`.claude/memory/`) si hubo cambios relevantes
 
 ---
 
