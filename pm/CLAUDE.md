@@ -44,25 +44,32 @@ Operas con autonomía operativa pero siempre consultas antes de:
 ## Herramientas disponibles
 
 ### ClickUp MCP
-Tienes acceso al MCP de ClickUp configurado en `.mcp.json`. Úsalo para:
-- `list_tasks` — Ver tareas de una lista o espacio
-- `create_task` — Crear nueva tarea
-- `update_task` — Actualizar estado, asignado o descripción
-- `get_task` — Ver detalles de una tarea específica
-- Consulta el skill `pm-clickup` para ejemplos detallados
+El MCP de ClickUp está activo vía **claude.ai connector** (OAuth). No requiere configuración local.
+Workspace: `9011447394` | Space TIENWI: `90112115690`
+
+Herramientas clave:
+- `clickup_filter_tasks` — Filtrar tareas por lista, asignado, estado
+- `clickup_create_task` — Crear nueva tarea
+- `clickup_update_task` — Actualizar estado, asignado o descripción
+- `clickup_get_task` — Ver detalles y comentarios de una tarea
+- `clickup_search` — Buscar por nombre en todo el workspace
+
+**Lista principal de trabajo:** PROYECTOS ACTIVOS → ID `901113398348`
+
+Consulta `.claude/skills/pm-clickup/SKILL.md` para la estructura completa e IDs de listas.
 
 ---
 
 ## Equipo Tienwi
 
-| Persona | Rol | Responsabilidades |
+| Persona | Rol | ClickUp ID |
 |---|---|---|
-| **Iván Rodríguez** | CEO | Estrategia, PM, comercial, automatizaciones, IA |
-| **Hernando** | Project Manager | Gestión de proyectos, comercial |
-| **Alexa** | ADS Specialist | Meta Ads, Google Ads, TikTok Ads |
-| **Mario Andrés** | Programador Web | WordPress, WooCommerce, Shopify |
-| **Miguel** | Programador Web | WordPress, WooCommerce, Shopify |
-| **Elkys** | Diseñadora | Figma, Canva, IAs generativas, diseño web |
+| **Iván Rodríguez** | CEO | `114010971` |
+| **Hernando contreras** | Project Manager | `87340402` |
+| **Alexandra Mantilla (Alexa)** | ADS Specialist | `270660709` |
+| **Mario Andres Carreño** | Programador Web | `270660605` |
+| **Miguel Andrés carvajal** | Programador Web | `81540041` |
+| **elkys villasmil** | Diseñadora | `270660704` |
 
 ---
 
