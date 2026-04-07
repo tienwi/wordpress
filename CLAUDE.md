@@ -94,22 +94,24 @@ Cuando encuentres un error:
 
 ## Skills disponibles
 
-Consulta las guías especializadas en la carpeta `wp-skills/` cuando necesites:
-- `wp-skills/debugging.md` — Proceso de debugging sistemático
-- `wp-skills/php-patterns.md` — Patrones PHP recomendados para WordPress
-- `wp-skills/rest-api.md` — Uso de la WordPress REST API
-- `wp-skills/n8n-integration.md` — Integración WordPress ↔ n8n
-- `wp-skills/cpanel-database.md` — Gestión de BD y archivos via cPanel
+Consulta las guías especializadas según la tarea:
+
+**En el repo (siempre disponibles):**
+- `.claude/skills/wp-plugin-development/SKILL.md` — Desarrollo de plugins WordPress
+- `.claude/skills/wp-woocommerce-api/SKILL.md` — WordPress REST API y WooCommerce API
+- `debugging.md` — Proceso de debugging sistemático
+- `php-patterns.md` — Patrones PHP recomendados para WordPress
+- `n8n-integration.md` — Integración WordPress ↔ n8n
 
 ---
 
-## Clientes activos (referencia)
+## Contexto y memoria del equipo
 
-| Cliente | Sitio | Stack |
-|---|---|---|
-| Comfacundi | tienda.comfacundi.com.co | WooCommerce + WP |
-| SIOBIKE | - | WooCommerce |
-| Centro Estética Amara | - | WordPress |
+Lee estos archivos al iniciar cada sesión para tener el contexto completo:
+
+- `.claude/memory/clientes.md` — Clientes activos y sus sitios
+- `.claude/memory/decisiones.md` — Decisiones técnicas tomadas
+- `.claude/memory/preferencias.md` — Cómo trabaja el equipo y preferencias
 
 ---
 
@@ -120,3 +122,15 @@ Mantén el archivo `BITACORA.md` actualizado con:
 - Quién reportó
 - Problema resuelto
 - Solución aplicada
+
+---
+
+## Al finalizar cada sesión
+
+Siempre hacer commit y push para mantener el contexto sincronizado:
+
+```bash
+git add .
+git commit -m "Sesión YYYY-MM-DD — resumen breve"
+git push
+```
