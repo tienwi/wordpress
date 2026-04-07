@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat /Users/ivanrodriguez/.claude/skills/n8n-workflow-patterns/*.md)",
+      "Bash(mkdir -p \"/Users/ivanrodriguez/.claude/skills/wp-plugin-development\")",
+      "Bash(mkdir -p \"/Users/ivanrodriguez/.claude/skills/wp-woocommerce-api\")"
+    ]
+  }
+}

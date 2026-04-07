@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "wordpress": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@automattic/mcp-wordpress"],
+      "env": {
+        "WP_SITE_URL": "https://dev.tienwi.com.co",
+        "WP_USERNAME": "Equipoweb",
+        "WP_APP_PASSWORD": "k1rP XgJN gvXB 9Dzo kZuK vCOj"
+      }
+    }
+  }
+}
