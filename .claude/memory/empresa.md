@@ -1,6 +1,6 @@
 # Tienwi Agency — Contexto General
 
-Actualizado: 2026-04-06
+Actualizado: 2026-04-08
 
 ---
 
@@ -45,3 +45,23 @@ Agencia colombiana especializada en ecommerce y automatización.
 | 7 | Agent Project Manager ⭐ | Hernando, Iván | Transversal |
 
 El **Agent PM** es el núcleo: contiene la información de clientes, proyectos activos y procesos de la agencia.
+
+---
+
+## Identidad de marca
+
+### Colores corporativos
+
+| Nombre | HEX | Uso |
+|---|---|---|
+| Azul oscuro principal | `#0522AA` | Color primario |
+| Azul eléctrico secundario | `#0D3CFE` | Color secundario |
+| Blanco | `#FFFFFF` | — |
+| Gris claro de fondo | `#F8F8F8` | Fondos |
+
+### Tipografía
+
+| Fuente | Variante | Uso |
+|---|---|---|
+| **Goodly** | Semibold | Tipografía oficial principal |
+| **Poppins** | — | Web y redes sociales |
