@@ -1,22 +1,62 @@
 # Clientes Activos — Tienwi Agency
 
-Actualizado: 2026-04-06
+Actualizado: 2026-04-08
 
 ---
 
 ## Comfacundi
-- **Sitio:** tienda.comfacundi.com.co
+- **Sitios:** comfacundi.com.co / tienda.comfacundi.com.co
 - **Stack:** WooCommerce + WordPress
-- **Notas:** Cliente activo con tienda ecommerce
+- **Notas:** Cliente activo con sitio institucional y tienda ecommerce
 
-## SIOBIKE
+## Casa Inglesa
 - **Sitio:** Por definir
-- **Stack:** WooCommerce
+- **Stack:** Por definir
 - **Notas:** Cliente activo
 
-## Centro Estética Amara
+## Macrotires
 - **Sitio:** Por definir
-- **Stack:** WordPress
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Elegidos Store
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Autentika Boutique
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Distintos
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Casa Turbay
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Cristalería La Paz
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Reserva Ruitoque
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## CVN
+- **Sitio:** Por definir
+- **Stack:** Por definir
+- **Notas:** Cliente activo
+
+## Obicua
+- **Sitio:** Por definir
+- **Stack:** Por definir
 - **Notas:** Cliente activo
 
 ---
